@@ -10,6 +10,8 @@ body{
 }
 .navlinks{
     display: flex;
+    list-style: none;
+    text-decoration: none;;
 }
 .flexContainer{
     display: flex;
