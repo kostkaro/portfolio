@@ -7,11 +7,9 @@ body{
 }
 .left{
     text-align: left;
-    position: absolute;
 }
 .right{
     text-align: right;
-    position: absolute;
 }
 .flexContainer{
     display: flex;
