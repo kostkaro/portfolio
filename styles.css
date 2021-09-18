@@ -37,7 +37,7 @@ body{
     list-style: none;
     margin-right: 20px;
 }
-.active{
+.navlinks .active a{
     color: rgba(33, 33, 33, 1);
 }
 .navitems{
