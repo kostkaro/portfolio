@@ -128,15 +128,18 @@ hr{
     max-width: 900px;
     margin-left: auto;
     margin-right: auto;
+ 
 }
 .projectcontent h1{
     max-width: 800px;
+    display: block;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
 }
 .projectcontent img{
     display: block;
+    width: 100%;
     max-width: 900px;
     margin-left: auto;
     margin-right: auto;
@@ -149,9 +152,23 @@ hr{
     margin-top: 50px;
 }
 .projectcontent h2{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
     margin-top: 50px;
+    width: 90%;
 }
-
+.projectcontent i{
+    width: 90%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
 .projectcontent p{
+    width: 90%;
     line-height: 30px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    
 }
