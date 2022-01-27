@@ -89,7 +89,7 @@ h1 {
     font-size: 40px;
     opacity:0;
     transition: ease opacity 0.25s;
-    color: rgb(26, 26, 26) ;
+    color: rgb(21, 21, 21) ;
 }
 .project:hover p{
     opacity:1;
