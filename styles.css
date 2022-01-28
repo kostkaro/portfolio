@@ -73,6 +73,7 @@ h1 {
     font-weight: 900;
 }
 .project{
+    border-radius: 5px;
     width: 380px;
     height: 380px;
     margin: 5px;
